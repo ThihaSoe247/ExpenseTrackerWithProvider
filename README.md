@@ -1,16 +1,9 @@
-# expense_tracker
+Recent Expenses Overview
+Stay on top of your spending with the Recent Expenses section! This feature automatically displays your latest transactions, helping you track where your money is going in real time.
 
-A new Flutter project.
+💰 Instant Insights – See your most recent purchases at a glance.
+📅 Date-Sorted List – Easily track what you spent in the last few days.
+🎯 Smart Spending – Identify patterns in your expenses and adjust your budget accordingly.
 
-## Getting Started
+Keep your finances in check and take control of your expenses with just a quick glance! 🚀
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

@@ -1,11 +1,7 @@
 import 'package:expense_tracker/Components/profile.dart';
-import 'package:expense_tracker/Expense/expenseProvider.dart';
-import 'package:expense_tracker/Screens/DetailsPage.dart';
 import 'package:expense_tracker/Components/Login.dart';
 import 'package:expense_tracker/Components/service.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 
 import 'database.dart';
 

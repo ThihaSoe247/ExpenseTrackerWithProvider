@@ -1,0 +1,2 @@
+/Users/ggcp/MobileProject/expense_tracker/android/app/.cxx/Debug/4j6k1215/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/ggcp/MobileProject/expense_tracker/android/app/.cxx/Debug/4j6k1215/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -28,7 +28,6 @@ class FirestoreService {
         await userExpenses.doc(doc.id).delete();
       }
 
-      print('Existing expenses deleted successfully.');
 
       // Save new expenses
       for (var expense in expenseState.expenseList) {
@@ -39,7 +38,6 @@ class FirestoreService {
         });
       }
 
-      print('New expenses saved successfully');
     } catch (e) {
       print('Error saving expenses: $e');
     }
@@ -88,7 +86,6 @@ class FirestoreService {
         await userIncomes.doc(doc.id).delete();
       }
 
-      print('Existing incomes deleted successfully.');
 
       // Save new incomes
       for (var income in incomeState.incomeList) {
@@ -98,9 +95,7 @@ class FirestoreService {
         });
       }
 
-      print('New incomes saved successfully');
     } catch (e) {
-      print('Error saving incomes: $e');
     }
   }
 

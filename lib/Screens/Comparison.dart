@@ -104,12 +104,7 @@ class _MoneyAnalysisState extends State<MoneyAnalysis> {
                       color: Colors.green[800],
                     ),
                   ),
-                  Text(git init
-                    git add README.md
-                    git commit -m "first commit"
-                    git branch -M main
-                    git remote add origin https://github.com/ThihaSoe247/ExpenseTrackerWithProvider.git
-                    git push -u origin main
+                  Text(
                     "$incomeAmount THB",
                     style: TextStyle(
                       fontSize: 18,
